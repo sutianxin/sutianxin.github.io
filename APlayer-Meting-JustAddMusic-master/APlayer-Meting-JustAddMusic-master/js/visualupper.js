@@ -1,0 +1,2 @@
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>setTimeout(function(){$(".musiccontainer").insertAfter('#rightside');},2000);
+console.log("\n %c APlayer×Meting×JustAddMusic 7e672fb %c https://github.com/zfour/APlayer-Meting-JustAddMusic \n", "color: #fadfa3; background: #030307; padding:5px 0;", "background: #fadfa3; padding:5px 0;")
