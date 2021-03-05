@@ -242,4 +242,4 @@ document.addEventListener('pjax:error', (e) => {
   if (e.request.status === 404) {
     pjax.loadUrl('/404.html')
   }
-})</script></div></body></html>
+})</script></div><script data-pjax src="https://cdn.jsdelivr.net/gh/Zfour/hexo-github-calendar@1.10/hexo_githubcalendar.js"></script><script data-pjax>function GithubCalendarConfig(){var e=document.getElementById("recent-posts");e&&e.insertAdjacentHTML("afterbegin",'<div class="recent-post-item" style="width:100%;height:auto;padding:10px;"><div id="github_container"></div></div>'),GithubCalendar("https://python-github-calendar-api.vercel.app/api?sutianxin",["#ebedf0","#fdcdec","#fc9bd9","#fa6ac5","#f838b2","#f5089f","#c4067e","#92055e","#540336","#48022f","#30021f"],"sutianxin")}document.getElementById("recent-posts")&&GithubCalendarConfig()</script><style>#github_container{min-height:280px}@media screen and (max-width:650px){#github_container{min-height:120px}}</style></body></html>
