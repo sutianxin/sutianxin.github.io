@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sutianxin.top/posts/1306044467.html</loc>
+    
+    <lastmod>2021-03-13</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://sutianxin.top/posts/2442351397.html</loc>
     
     <lastmod>2021-03-13</lastmod>
@@ -508,13 +515,6 @@
   </url>
   
   <url>
-    <loc>https://sutianxin.top/tags/%F0%9F%92%8EMybatis/</loc>
-    <lastmod>2021-03-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sutianxin.top/tags/%F0%9F%8D%83Spring/</loc>
     <lastmod>2021-03-13</lastmod>
     <changefreq>daily</changefreq>
@@ -523,6 +523,13 @@
   
   <url>
     <loc>https://sutianxin.top/tags/%F0%9F%8D%83Spring-MVC/</loc>
+    <lastmod>2021-03-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sutianxin.top/tags/%F0%9F%92%8EMybatis/</loc>
     <lastmod>2021-03-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -588,6 +595,13 @@
   
   <url>
     <loc>https://sutianxin.top/categories/%E9%9D%A2%E8%AF%95%E7%9B%B8%E5%85%B3/</loc>
+    <lastmod>2021-03-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sutianxin.top/categories/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8/</loc>
     <lastmod>2021-03-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
