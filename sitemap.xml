@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sutianxin.top/posts/1158970579.html</loc>
+    
+    <lastmod>2021-03-20</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://sutianxin.top/posts/718443640.html</loc>
     
     <lastmod>2021-03-20</lastmod>
@@ -543,6 +550,13 @@
   </url>
   
   <url>
+    <loc>https://sutianxin.top/tags/%F0%9F%93%AB%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/</loc>
+    <lastmod>2021-03-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sutianxin.top/tags/%F0%9F%90%B7Hystrix/</loc>
     <lastmod>2021-03-20</lastmod>
     <changefreq>daily</changefreq>
@@ -636,13 +650,6 @@
   </url>
   
   <url>
-    <loc>https://sutianxin.top/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2021-03-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sutianxin.top/categories/%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2021-03-20</lastmod>
     <changefreq>daily</changefreq>
@@ -650,7 +657,21 @@
   </url>
   
   <url>
+    <loc>https://sutianxin.top/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2021-03-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sutianxin.top/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
+    <lastmod>2021-03-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sutianxin.top/categories/%E6%A1%86%E6%9E%B6%E5%BA%94%E7%94%A8/</loc>
     <lastmod>2021-03-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
